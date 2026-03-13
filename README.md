@@ -9,7 +9,7 @@ Building AI systems, scalable platforms, and automation tools.
 </p>
 
 <p align="center">
-<a href="https://razi.pro">🌐 Portfolio</a> •
+<a href="https://razi.pro?source=github-profile">🌐 Portfolio</a> •
 <a href="https://github.com/razikallayi">💻 GitHub</a>
 </p>
 
